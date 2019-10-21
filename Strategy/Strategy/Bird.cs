@@ -14,7 +14,7 @@ namespace Strategy
 
       public void Swim()
       {
-
+            Console.WriteLine("I can swim, glurb, glurb");
       }
 
       public void Display()

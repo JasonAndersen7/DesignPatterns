@@ -20,8 +20,16 @@ namespace Strategy
             Duck gotShotDuck = new Duck();
 
             gotShotDuck.PerformFly();
+            Console.WriteLine("I got shot");
+
             gotShotDuck.setFlyBehavior(new FlyNoWay());
+            gotShotDuck.setVocalizeBehavior(new Gurgle());
+
+
+            
             gotShotDuck.PerformFly();
+            gotShotDuck.PerformVocalize();
+
 
 
             Console.Read();
