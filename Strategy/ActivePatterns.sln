@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{DCB167B4-AA86-4AC1-96B2-752EEA2555CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{373429CD-5846-4ADC-99E2-3C9D58E6D4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{E928D7B1-5571-4826-B270-8DB5FD09938F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB167B4-AA86-4AC1-96B2-752EEA2555CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB167B4-AA86-4AC1-96B2-752EEA2555CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB167B4-AA86-4AC1-96B2-752EEA2555CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB167B4-AA86-4AC1-96B2-752EEA2555CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373429CD-5846-4ADC-99E2-3C9D58E6D4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373429CD-5846-4ADC-99E2-3C9D58E6D4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373429CD-5846-4ADC-99E2-3C9D58E6D4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373429CD-5846-4ADC-99E2-3C9D58E6D4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E928D7B1-5571-4826-B270-8DB5FD09938F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E928D7B1-5571-4826-B270-8DB5FD09938F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E928D7B1-5571-4826-B270-8DB5FD09938F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E928D7B1-5571-4826-B270-8DB5FD09938F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1DA421A-333B-4570-9744-E0F0442D6C7B}
+	EndGlobalSection
+EndGlobal
