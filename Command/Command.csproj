@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>DesignPatterns.Command</AssemblyName>
+    <RootNamespace>DesignPatterns.Command</RootNamespace>
+  </PropertyGroup>
+
+</Project>
